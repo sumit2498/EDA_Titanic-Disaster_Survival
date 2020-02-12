@@ -1,5 +1,6 @@
 # EDA_Titanic-Disaster_Survival
-Titanic Passenger Survival
+A ML model to predict the accuracy of persons survived
+Titanic Disaster Survival
 
 
 Public Score
